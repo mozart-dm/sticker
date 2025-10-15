@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Menherastuck.json"
+    "Menherastuck.json",
+    "new1.json"
   ],
   "homeserver_url": "https://matrix.hoka77.com"
 }
